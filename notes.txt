@@ -1,0 +1,39 @@
+Extra:
+- Java class consist 5 elements:
+	1. Variables
+	2. Methods
+	3. Constructors
+	4. Blocks
+	5. Inner class
+	
+Inner class
+-----------
+1. It is a class that declared inside the class or interface.
+2. Syntax:
+	class A
+	{
+		class B
+		{
+			// Inner class
+		}
+	}
+
+where, A is an outer class and B is an Inner class.
+3. Inner class can access all the members of the outer class.
+4. Advantage of Inner class is less code to write.
+5. Anonymous Inner class is a class that having no name, for which only a 
+   single object is created.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
